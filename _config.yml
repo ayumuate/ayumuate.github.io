@@ -1,0 +1,16 @@
+# User config
+author: "Dysphoric Ayumuate"
+tagline: "Nothing but a mundane college student"
+description: "This is Dysphoric Ayumuate(@ayumuate), a mundane college student NOT majoring in computer science in BIPT."
+keywords: "Ayumuate, Protofilo, Jekyll, Pineapple"
+email: "ayumuate@outlook.com"
+# linkedin: "https://www.linkedin.com/"
+# twitter: "https://twitter.com/"
+github: "https://github.com/ayumuate"
+
+# Site config
+baseurl: ""
+highlighter: rouge
+sass:
+  sass_dir: assets/scss
+  style: compressed
