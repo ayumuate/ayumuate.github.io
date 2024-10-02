@@ -38,6 +38,13 @@ This name is coined from scratch in my mind when signing up for my WeChat accoun
 * **Ayumu** Ayumu Sakura, the heroine of the manga 「おじさんが女子●生に悪いことを教える話」 ([*A Story About an Old Man Teaches Bad Things to a School Girl*](https://mangakakalot.com/chapter/ua920785/chapter_1)[^vpn]). Despite an NSFW name, it's actually a very attractive manga. Interestingly, a femboy named Ayumu showed up in 「AYUMU ちょろい男の娘のおはなし」 ([Choroi Otokonoko no Ohanashi](https://mangakakalot.com/manga/yo929441)[^vpn]).
 * **-ate** The suffix for esters (e.g. sulfate)[^ate].
 
+Suggested translation:
+
+* Simplified Chinese (简体中文): 不安步根
+* Japanese (日本語): 不安な歩酸
+
+If you want it to be translated into other languages, consult ChatGPT with my explanation of my name.
+
 ## Social media accounts
 
 * Outlook: [ayumuate@outlook.com](mailto:ayumuate@outlook.com)
