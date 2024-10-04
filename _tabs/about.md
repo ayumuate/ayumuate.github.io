@@ -48,7 +48,7 @@ If you want it to be translated into other languages, consult ChatGPT with my ex
 ## Social media accounts
 
 * Outlook: [ayumuate@outlook.com](mailto:ayumuate@outlook.com)
-* QQ: 3085604898 ([ayumuate@qq.com](mailto:ayumuate@qq.com))
+* QQ: *not public* ([ayumuate@qq.com](mailto:ayumuate@qq.com))
 * WeChat: *not public*
 * GitHub: [ayumuate](https://github.com/ayumuate)
 * Reddit: @ayumuate
