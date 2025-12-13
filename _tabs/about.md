@@ -4,57 +4,52 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, there! I'm **@ayumuate** or **Dysphoric Ayumuate （不安步根）**, born in 2004, a 19-year-old mundane student majoring in chemistry-related professions in BIPT.
+呀吼！我是**不安步根**（@ayumuate，英语：Dysphoric Ayumuate），2004年生的一个普通大学生，普普通通的在BIPT修读制药工程。
 
 Not proficient in anything —which you can find since there's no repo—, not outgoing or social whatsoever, not looking cute or cool, I'm nothing but nobody in the vast cosmos, awaiting your random discovery. Capable as I am in basic front-end and Python, I'm simply a noob compared with authentic programmers.
 
 I am what I belong to, not what others assigned to me wrongly. Having been *dysphoric* as what I had disguised as in high school long enough, I am sure it's time to come out and live what I actually am. It's not wise to expose my identity directly as I'm unaware of the inclusiveness of people surrounding, but better if I gradually reveal by acting.
 
-## About this site
+## 关于本站
 
-This site is a blog built on [GitHub Pages] with [Jekyll] and [Chirpy], intending to include:
+本站在[GitHub Pages]上用[Jekyll]部署的，主题是[Chirpy]，主要囊括这些内容：
 
 [GitHub Pages]: https://pages.github.com/
 [Jekyll]: https://jekyllrb.com/
 [Chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy
 
-* public jornals adapted from my private journals
-* techniques in programming and computer using
-* long comments that cannot be contained in the comment area
+* 从私人“心记”改编出来可以公开的记录
+* 编程和计算机使用的一些心得
+* 评论区放不下的长评
 
-Blog posts are mainly written in English (US) or Chinese (Simplified), but Japanese may also be included the day I've grasped Japanese. To translate my blog post, I personally recommend ChatGPT and Copilot.
+文章主要用英语（美国）或中文（简体）完成，哪天学会了日语也会放点儿日语的东西吧。个人推荐用 ChatGPT、 DeepSeek 等大模型翻译我的文章。为了方便，我也会给你提供术语表。
 
-By default, all my blog posts are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1), which means you are permitted to use my blog posts and
+默认情况下，我的文章基于[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)首选，你可以用我的文章，但是
 
-* you must give the credit to me, meaning you have to mention me in your work
-* your adaptations must be licensed under CC BY-SA 4.0 as well
+* 你必须注上我的名字
+* 你的衍生作品必须也按照CC BY-SA 4.0许可。
 
-## Meaning of my name
+## 名字的含义
 
-This name is coined from scratch in my mind when signing up for my WeChat account. **Dysphoric** is the adjective form of *dysphoria*, meaning a profound state of unease or dissatisfaction[^dysphoria].
+这个名字是我高中时（2022）注册我微信号时起的，**不安**（Dysphoric）是 dysphoria 的形容词形式，表示一种不自在、不舒适的章台[^dysphoria].
 
-**Ayumuate** consists of two parts:
+**步根**（Ayumuate）包含这两部分：
 
-* **Ayumu** Ayumu Sakura, the heroine of the manga 「おじさんが女子●生に悪いことを教える話」 ([*A Story About an Old Man Teaches Bad Things to a School Girl*](https://mangakakalot.com/chapter/ua920785/chapter_1)[^vpn]). Despite an NSFW name, it's actually a very attractive manga. Interestingly, a femboy named Ayumu showed up in 「AYUMU ちょろい男の娘のおはなし」 ([Choroi Otokonoko no Ohanashi](https://mangakakalot.com/manga/yo929441)[^vpn]).
-* **-ate** The suffix for esters (e.g. sulfate)[^ate].
+* **步**（Ayumu）漫画「おじさんが女子●生に悪いことを教える話」 ([*A Story About an Old Man Teaches Bad Things to a School Girl*](https://mangakakalot.com/chapter/ua920785/chapter_1)[^vpn])的女主。虽然名字有点不正经，但其实很好看哦(\*/ω＼\*)。有意思的是，「AYUMU ちょろい男の娘のおはなし」 ([Choroi Otokonoko no Ohanashi](https://mangakakalot.com/manga/yo929441)[^vpn])这个漫画里还有个男娘也叫AYUMU。（？）
+* **根**（-ate）表示含氧酸根的后缀[^ate]。
 
-Suggested translation:
+如果你想把我的名字翻译成别的语言，可以把这段描述复制给大语言模型，让它帮你想。
 
-* Simplified Chinese (简体中文): 不安步根
-* Japanese (日本語): 不安な歩酸
-
-If you want it to be translated into other languages, consult ChatGPT with my explanation of my name.
-
-## Social media accounts
+## 社交媒体账号
 
 * Outlook: [ayumuate@outlook.com](mailto:ayumuate@outlook.com)
-* QQ: *not public* ([ayumuate@qq.com](mailto:ayumuate@qq.com))
-* WeChat: *not public*
+* QQ: *不公开* ([ayumuate@qq.com](mailto:ayumuate@qq.com))
+* 微信: *不公开*
 * GitHub: [ayumuate](https://github.com/ayumuate)
 * Reddit: @ayumuate
-* Bilibili: [不安步根](https://space.bilibili.com/1828595695)
-* Zhihu: [不安步根](https://www.zhihu.com/people/ayumuate)
-* Alipay: *not public*
+* 哔哩哔哩: [不安步根](https://space.bilibili.com/1828595695)
+* 知乎: [不安步根](https://www.zhihu.com/people/ayumuate)
+* 支付宝: *不公开*
 
 [^dysphoria]: [Dysphoria - Wikipedia](https://en.wikipedia.org/wiki/Dysphoria)
 [^ate]: [*What Does Ate Mean in Chemistry*](https://science.blurtit.com/33087/what-does-ate-mean-in-chemistry)
