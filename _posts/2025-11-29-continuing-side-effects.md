@@ -1,7 +1,7 @@
 ---
 title: 还没有结束的副作用
 date: 2025-11-29 22:48:00 +0800
-categories: [ Life, Transgender ]
+categories: [ Life, Identity ]
 tags: [ transgender, HRT, hormones, puberty, hair-removal, voice, personal ]
 ---
 
@@ -23,18 +23,18 @@ tags: [ transgender, HRT, hormones, puberty, hair-removal, voice, personal ]
 ## 参考文献
 
 [^1]: Jacques Balthazart, Gregory Ball. Brain Aromatase, Estrogens, and Behavior. OUP USA. 2013: 315. ISBN 9780199841196. https://books.google.com/books?id=VPpMAgAAQBAJ&pg=PA315
-[^2]: Osawa Y, Higashiyama T, Fronckowiak M, Yoshida N, Yarborough C. Aromatase. J Steroid Biochem. 1987;27(4-6):781-9. doi: 10.1016/0022-4731(87)90150-6. PMID 3320558. https://www.ncbi.nlm.nih.gov/pubmed/3320558?dopt=Abstract
-[^3]: 深入了解不同生命阶段的特色 - Ask The Scientists https://askthescientists.com/zh-hans/stages-of-life/
-[^4]: 青春期_百度百科 https://baike.baidu.com/item/%E9%9D%92%E6%98%A5%E6%9C%9F/673
-[^5]: 青少年 - 维基百科，自由的百科全书 https://zh.wikipedia.org/zh-hans/%E9%9D%92%E5%B0%91%E5%B9%B4
+[^2]: [Osawa Y, Higashiyama T, Fronckowiak M, Yoshida N, Yarborough C. Aromatase. J Steroid Biochem. 1987;27(4-6):781-9. doi: 10.1016/0022-4731(87)90150-6. PMID 3320558.](https://www.ncbi.nlm.nih.gov/pubmed/3320558?dopt=Abstract)
+[^3]: [深入了解不同生命阶段的特色 - Ask The Scientists](https://askthescientists.com/zh-hans/stages-of-life/)
+[^4]: [青春期_百度百科](https://baike.baidu.com/item/%E9%9D%92%E6%98%A5%E6%9C%9F/673)
+[^5]: [青少年 - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-hans/%E9%9D%92%E5%B0%91%E5%B9%B4)
 [^6]: Pinyerd B, Zipf WB (2005). "Puberty-timing is everything!". Journal of Pediatric Nursing. 20 (2): 75–82. doi:10.1016/j.pedn.2004.12.011. PMID 15815567. S2CID 28274693.
-[^7]: 激光脱毛大概花多少钱？ - 知乎 https://www.zhihu.com/question/30023011/answer/201071025
-[^8]: 激光脱毛大概花多少钱？ - 张乐童的回答 - 知乎 https://www.zhihu.com/question/30023011/answer/652400164
-[^9]: 芈月不可战胜的，玩蒙恬我就爱禁芈月_哔哩哔哩_bilibili https://www.bilibili.com/video/BV16b421J7Y8
-[^10]: 声带手术综述 - MtF.wiki https://mtf.wiki/zh-cn/docs/vocal-surgery/overview
-[^11]: FFS综述 https://mtf.wiki/zh-cn/docs/ffs/overview
-[^12]: 5 YEAR VOICE TRANSITION TIMELINE | The Evolution of My Voice - YouTube https://www.youtube.com/watch?v=2txYhkmhVts
+[^7]: [激光脱毛大概花多少钱？ - 知乎](https://www.zhihu.com/question/30023011/answer/201071025)
+[^8]: [激光脱毛大概花多少钱？ - 张乐童的回答 - 知乎](https://www.zhihu.com/question/30023011/answer/652400164)
+[^9]: [芈月不可战胜的，玩蒙恬我就爱禁芈月_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV16b421J7Y8)
+[^10]: [声带手术综述 - MtF.wiki](https://mtf.wiki/zh-cn/docs/vocal-surgery/overview)
+[^11]: [FFS综述](https://mtf.wiki/zh-cn/docs/ffs/overview)
+[^12]: [5 YEAR VOICE TRANSITION TIMELINE \| The Evolution of My Voice - YouTube](https://www.youtube.com/watch?v=2txYhkmhVts)
 [^13]: 对，就是我网名“不安步根”里的“不安”
 [^14]: 月生活费1000
-[^15]: 国家药监局关于发布药品网络销售禁止清单（第一版）的公告（2022年 第111号） https://www.nmpa.gov.cn/xxgk/ggtg/ypggtg/ypqtggtg/20221130200847133.html
-[^16]: HRT 综述 - MtF.wiki https://mtf.wiki/zh-cn/docs/medicine/overview
+[^15]: [国家药监局关于发布药品网络销售禁止清单（第一版）的公告（2022年 第111号）](https://www.nmpa.gov.cn/xxgk/ggtg/ypggtg/ypqtggtg/20221130200847133.html)
+[^16]: [HRT 综述 - MtF.wiki](https://mtf.wiki/zh-cn/docs/medicine/overview)

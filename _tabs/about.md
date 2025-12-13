@@ -31,7 +31,7 @@ I am what I belong to, not what others assigned to me wrongly. Having been *dysp
 
 ## 名字的含义
 
-这个名字是我高中时（2022）注册我微信号时起的，**不安**（Dysphoric）是 dysphoria 的形容词形式，表示一种不自在、不舒适的章台[^dysphoria].
+这个名字是我高中时（2022）注册我微信号时起的，**不安**（Dysphoric）是 dysphoria 的形容词形式，表示一种[不自在、不舒适]({% post_url 2025-11-29-continuing-side-effects %})的状态[^dysphoria]。
 
 **步根**（Ayumuate）包含这两部分：
 
