@@ -2,7 +2,7 @@
 title: Failure, Fortune, Dysphoria, and Chaos
 date: 2025-07-05 01:50:00 +0800
 categories: [ Life, Identity ]
-tags: [ transgender, dysphoria, military-training, college, identity, counseling, mental-health, coming-out ]
+tags: [ transgender, dysphoria, military-training, college, identity, counseling, mental-health, coming-out, english ]
 ---
 
 > Adapted from my journal in notion

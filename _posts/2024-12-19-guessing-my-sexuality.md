@@ -2,7 +2,7 @@
 title: Guessing my Sexual Orientation
 date: 2024-12-19 14:27:00 +0800
 categories: [ Life ]
-Tags: [ Life, Sexuality, LGBTQ ]
+tags: [ Life, Sexuality, LGBTQ, english ]
 ---
 
 Once again, on his "Ideological and Moral Education and the Rule of Law" lecture, Mr. Luo delivered homophobic speeches apart from a mysterious story where a man died of electrical shock from a sex toy. Jiao, who shared the opposition toward him with me, unintentionally asked me whether I'm homosexual, which made me rethink of my sexual orientation.

@@ -1,7 +1,7 @@
 ---
 title: 如果给你一次选择性别的机会，你会选择男性还是女性？
 categories: [ Life, Identity ]
-tags: [ gender-identity, transgender, questioning, coming-out, dysphoria, personal, high-school, reflection ]
+tags: [ gender-identity, transgender, questioning, coming-out, dysphoria, personal, high-school, reflection, chinese ]
 ---
 
 > 原文来自知乎 [如果给你一次选择性别的机会，你会选择男性还是女性？](https://www.zhihu.com/question/431552789/answer/116520462364)

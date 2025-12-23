@@ -2,7 +2,7 @@
 title: First time out in my own dress
 date: 2025-05-28 15:52:00 +0800
 categories: []
-tags: []
+tags: [english]
 ---
 
 > Original text from Notion. :-) FYI, my current avatar `2025-b.png` is the ChatGPT-processed anime version of the photo of me in my first self-purchased dress.

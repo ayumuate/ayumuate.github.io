@@ -2,7 +2,7 @@
 title: 用大模型识别表格，保存成 Excel 工作簿
 date: 2024-11-25 00:27:00 +0800
 categories: [ Computer, Tutorials ]
-Tags: [ Excel, Table, LLM, ChatGPT, Tutorial, Idiot, Conversion, Recognition ]
+tags: [ Excel, Table, LLM, ChatGPT, Tutorial, Idiot, Conversion, Recognition, chinese ]
 ---
 
 Excel 自带的图片转表格有多难用，用过的都知道。一般的图片转表格工具，多数收费，效果也仅仅是勉强令人满意。所幸，我们苟活到了 ChatGPT 的时代。虽然目前的大模型还不能直接输出 `xlsx` 格式的文件，但是，我们仍然可以用它更快更好的将图片转化成表格。
