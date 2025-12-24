@@ -8,6 +8,8 @@ tags: [english]
 > Original text from Notion. :-) FYI, my current avatar `2025-b.png` is the ChatGPT-processed anime version of the photo of me in my first self-purchased dress.
 {: .prompt-info}
 
+![My avatar](assets/img/2025-b.png)
+
 Recommended music: [【Tensions - デコレーション（Music Video）】](https://www.bilibili.com/video/BV1fM4y1U7Kz)
 
 I used to wear my mom's skirts and dresses occasionally only at home until what happened next.
