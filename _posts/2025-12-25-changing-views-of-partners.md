@@ -51,8 +51,20 @@ It was still challenging to get along well with people with their loved ones for
 
 -----
 
-What about me? Given my question sexuality and pursuit of my gender affirming life, it's still to early to think of love and marriage. Do I love someone romantically? It's still a hard question to me.
+What about me? Given my questioning sexuality and pursuit of my gender affirming life, it's still to early to think of love and marriage. Do I love someone romantically? It's still a hard question to me.
+
+![“也是 确实没什么关系呢 和性别什么的！” from Page 10, Chapter 2, Love me for Who I Am (不可解なぼくのすべてを)](/assets/img/2-10-love-me-for-who-i-am.jpg)
+
+Roommates and Dad were interested in my willingness to find a boyfriend/girlfriend. Therefore, I always claimed my sexuality was questioning, meaning I don't know I'm attracted to male, female, both, or more complicated situations. One day[^one_day], when I disclosed it to Wanting in a discussion of reproduction in an linear algebra lesson, she told me,
+
+> Haha\~ It isn't necessary to figure it out. Just find someone you like and start dating them. Sexuality is just what your heart leans towards.
+
+which just echoed Suzu's words in *Love me for Who I Am* and really pushed my thoughts of love a bit forward. Instead of what gender I'd prefer, what kind of person I'm attracted to becomes the current question.
+
+[^one_day]: Some Friday before Oct 20. The conversation is recored in notion, but I haven't decide to make it public yet.
 
 People defined it as a sexual or romantic attraction where you intrinsically desire to hug, kiss, or have a sex with them when just seeing them, but to me, such person doesn't exist.
+
+To be honest, my desired partner is someone who genuinely understands, comforts, accompanies, and supports me emotionally all the time — Yuu and Mangoegg are the best instance as best friends. Their sex, gender, sexuality, appearance, reproductivity, social status, income, political views, hobbies, etc., can all be compromised. Do values and daily habits matter? They surely do, but they are too hard to be described and assesed unless I actually spend a large amount time with them in the same room. For example, someone whose room is as messy as mine may actually have a different preference in food from me. If I'm not a picky eater, it will be extremely difficult to find food that suits them.
 
 I'm a legal adult and a child faced with such complex circumstances.
