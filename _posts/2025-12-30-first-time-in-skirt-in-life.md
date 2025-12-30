@@ -19,7 +19,7 @@ tags: [ chinese, identity, life, transgender, skirt, zhihu ]
 
 其实看到标题，我特别想分享的是我今年新买的裙子 >_< 只不过，这个是我第一次穿买给自己的、自己拥有的裙子，题目问的范围有一点广……
 
-无妨，也可以看看：[First time out in my own dress](ayumuate.top/posts/first-time-out-in-my-own-dress/)
+无妨，也可以看看：[First time out in my own dress]({% post_url 2025-5-28-first-time-out-in-my-own-dress %})
 
 
 [^1]: 2011年3月到6月期间，妈妈出于不明原因，让我和亲戚（姥姥的其它女儿）一起生活，亲戚在此时将我送入幼儿园3个月左右。此前未曾进入幼儿园，一直和妈妈在家生活。
