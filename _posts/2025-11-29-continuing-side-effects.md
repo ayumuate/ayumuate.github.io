@@ -2,7 +2,7 @@
 title: 还没有结束的副作用
 date: 2025-11-29 22:48:00 +0800
 categories: [ Life, Identity ]
-tags: [ transgender, HRT, hormones, puberty, hair-removal, voice, personal, chinese ]
+tags: [ transgender, HRT, hormones, puberty, hair-removal, voice, personal, chinese, zhihu ]
 ---
 
 > 原文来自知乎 [还没有结束的副作用](https://zhuanlan.zhihu.com/p/1978205981453354406)。
